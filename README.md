@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .Net Core Full Stack with Angular and React
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... email me @kumar.rn.net@gmail.com
-- 😄 Pronouns: ... ram
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...Learning is really fun
 
 <!---
